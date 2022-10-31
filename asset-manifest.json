@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-app/index.html/static/css/main.f8ad8b46.css",
-    "main.js": "/my-app/index.html/static/js/main.24c71395.js",
-    "static/js/787.d3dd3dac.chunk.js": "/my-app/index.html/static/js/787.d3dd3dac.chunk.js",
-    "static/media/react.jpg": "/my-app/index.html/static/media/react.423973b28fea70119574.jpg",
-    "static/media/footer.png": "/my-app/index.html/static/media/footer.a480b2ea13e9858bf75e.png",
-    "static/media/me.png": "/my-app/index.html/static/media/me.4747f0dc3ffba4ffe4e7.png",
-    "index.html": "/my-app/index.html/index.html",
-    "main.f8ad8b46.css.map": "/my-app/index.html/static/css/main.f8ad8b46.css.map",
-    "main.24c71395.js.map": "/my-app/index.html/static/js/main.24c71395.js.map",
-    "787.d3dd3dac.chunk.js.map": "/my-app/index.html/static/js/787.d3dd3dac.chunk.js.map"
+    "main.css": "/mihir-cv/static/css/main.d0dc0786.css",
+    "main.js": "/mihir-cv/static/js/main.3dbc9a42.js",
+    "static/js/787.d3dd3dac.chunk.js": "/mihir-cv/static/js/787.d3dd3dac.chunk.js",
+    "static/media/react.jpg": "/mihir-cv/static/media/react.423973b28fea70119574.jpg",
+    "static/media/footer.png": "/mihir-cv/static/media/footer.a480b2ea13e9858bf75e.png",
+    "static/media/me.png": "/mihir-cv/static/media/me.4747f0dc3ffba4ffe4e7.png",
+    "index.html": "/mihir-cv/index.html",
+    "main.d0dc0786.css.map": "/mihir-cv/static/css/main.d0dc0786.css.map",
+    "main.3dbc9a42.js.map": "/mihir-cv/static/js/main.3dbc9a42.js.map",
+    "787.d3dd3dac.chunk.js.map": "/mihir-cv/static/js/787.d3dd3dac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8ad8b46.css",
-    "static/js/main.24c71395.js"
+    "static/css/main.d0dc0786.css",
+    "static/js/main.3dbc9a42.js"
   ]
 }
